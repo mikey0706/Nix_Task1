@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nix_Task1", "Nix_Task1\Nix_Task1.csproj", "{3CB07D46-9B1A-44C1-A8E5-79738F1F0C1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CB07D46-9B1A-44C1-A8E5-79738F1F0C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB07D46-9B1A-44C1-A8E5-79738F1F0C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB07D46-9B1A-44C1-A8E5-79738F1F0C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB07D46-9B1A-44C1-A8E5-79738F1F0C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8043BF4E-B393-4D66-817E-8AE28FC95EEF}
+	EndGlobalSection
+EndGlobal
